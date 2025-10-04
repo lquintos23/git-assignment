@@ -71,8 +71,7 @@ This is a full-stack movie search application that allows users to search for mo
 ---
 
 ## Demo
-
-(Optional: Add link to demo video or screenshots.)
+https://drive.google.com/drive/folders/189pX_1Wscb3mtpTO7bEjNURxEhkf21HT?usp=sharing
 ---
 
 ## Acknowledgments
